@@ -1,0 +1,407 @@
+code|vervangende_code|
+01 Zand, los|zand|
+02 Klei (stijf)|klei|
+02 Klei, zw. zandig|klei|
+02 Zand, matig|zand|
+03 Veen (stijf)|veen|
+03 Veen, matig|veen|
+04 Veen, slap|veen|
+05 Zand, st. kleiig|zand|
+12 Klei|klei|
+12 Klei - Klei 3|klei|
+12 klei - Klei 3|klei|
+12A klei - Klei 3|klei|
+22 Pleistoceen|zand|
+22 zand, fijn tot matig|zand|
+4 HV|veen|
+4 HV (Hollandveen)|veen|
+4 HV - Veen|veen|
+4 HV - Veen _1|veen|
+4 HV - Veen _3|veen|
+4 HV - Veen boven ld|veen|
+4 hollandveen o|veen|
+5 HV (klei sterk humeus)|veen|
+5 HV klei|veen|
+5 klei, st/uiterst hum o|klei|
+6 Klei - Klei 2|klei|
+6 klei|klei|
+6 klei (Klei 2)|klei|
+6 klei - Klei 2|klei|
+6 klei, silt, pl zw hum o|klei|
+6/7|klei|
+6/7 (Klei 3)|klei|
+7 klei|klei|
+7 klei (Klei 3)|klei|
+8 zand|zand|
+9 BV|veen|
+9 BV (veen)|veen|
+9 basisveen|veen|
+Antrop. tn, vn (opb)||
+Antropogeen ZAND|zand|
+Antropogeen klei|klei|
+Antropogeen kruin, zand|zand|
+Antropogeen teen, veen|veen|
+Antropogeen veen|veen|
+Antropogeen zand|zand|
+Antropogeen, zand|zand|
+Antropogene klei|klei|
+Antropogene klei (POP)|klei|
+Antropogn tn,vn [mv]||
+Antrp.tn,vn [mv,opb]||
+Baangrind|zand|
+Ballastbed|zand|
+Basis veen|veen|
+Basisveen|veen|
+Basisveen (opb)|veen|
+Bodemverbetering||
+Calais <13,5 (n)|klei|
+Calais <13,5 (o)|klei|
+Clay Organic|klei|
+Clay Sandy|klei|
+Dense Sand|zand|
+Dilatent clay|klei|
+Embankment dry|klei|
+Gravel|zand|
+H_Aa_ht_new||
+H_Aa_ht_old||
+H_Rk_k_deep||
+H_Rk_k_shallow||
+H_Rk_ko||
+H_Ro_z&k||
+H_vbv_v|veen|
+H_vhv_v|veen|
+Holl.vn. (opb)|veen|
+Holl.vn. [gws] (opb)|veen|
+Holland Veen|veen|
+Holland veen|veen|
+Hollandveen|veen|
+Hollandveen (gws + 0,5 m)|veen|
+Hollandveen 11,8|veen|
+Hollandveen <11 (n)|veen|
+Hollandveen <11 (o)|veen|
+Hollandveen >11 (n)|veen|
+Hollandveen >11 (o)|veen|
+Hollandveen [gws]|veen|
+Hollandveen [mv,opb]|veen|
+Hollandveen [mv]|veen|
+Hollandveen naast|veen|
+Hollandveen naast (POP)|veen|
+Hollandveen onder|veen|
+K [10,8 - 13,5]|klei|
+K [10.8-13.5]|klei|
+K [13,5 - 15,0]|klei|
+K [13,5-15,0]_14,26|klei|
+K [13,5-15]|klei|
+K [15,0 - 17,0]|klei|
+K [15,0] (2)|klei|
+K [15-17]_16|klei|
+K [15-17]_16,19|klei|
+K [<13,5]|klei|
+K [>17,0]|klei|
+K [>17]_17|klei|
+KA[10.8-13.5]|klei|
+KA[13,5 -15,0] _14,3|klei|
+KA[15,0 -17,0] _16,0|klei|
+KA[15.0-17.0]|klei|
+KLEI m siltig, hum|klei|
+KLEI, 14|klei|
+KLEI, 17|klei|
+K[10.8-13.5]|klei|
+K[10.8-13.5]_13.5|klei|
+K[13.5-15.0]|klei|
+K[13.5-15.0] (c'en phi=0)|klei|
+K[13.5-15.0]_14.25|klei|
+K[15.0-17.0]|klei|
+K[17.0-20.0]|klei|
+K[> 17,0]|klei|
+K[Toplaag]|klei|
+Klei|klei|
+Klei >17 [17,70]|klei|
+Klei [15]|klei|
+Klei [16]|klei|
+Klei (cat. 1)|klei|
+Klei (cat. 2)|klei|
+Klei (cat. 3)|klei|
+Klei (cat. 4)|klei|
+Klei 1|klei|
+Klei 1 (11,96kN/m3)|klei|
+Klei 1 [12.6]|klei|
+Klei 11,7-13,5 (2%)|klei|
+Klei 13,5-15,0 (2%)|klei|
+Klei 13-15|klei|
+Klei 14,2|klei|
+Klei 14,6 kN/m3|klei|
+Klei 15,0-17,0 (2%)|klei|
+Klei 15-17 [16,10]|klei|
+Klei 16|klei|
+Klei 16,0|klei|
+Klei 2|klei|
+Klei 2 (14,36kN/m3)|klei|
+Klei 2 [14.3]|klei|
+Klei 2 [14.5]|klei|
+Klei 3|klei|
+Klei 3 (15,46kN/m3)|klei|
+Klei 3 (16,55kN/m3)|klei|
+Klei 3 [15.5]|klei|
+Klei 3 [16.0]|klei|
+Klei 4|klei|
+Klei 4 [17.0]|klei|
+Klei 4 [17.9]|klei|
+Klei <13,5|klei|
+Klei > 17,0 (2%)|klei|
+Klei >17,0 (2%)|klei|
+Klei Antropogeen|klei|
+Klei Calais 15-18 (n)|klei|
+Klei Calais 15-18 (o)|klei|
+Klei Calais15-18 (n)|klei|
+Klei Echteld (n)|klei|
+Klei Echteld (o)|klei|
+Klei NW 13,5-15 (n)|klei|
+Klei NW 13,5-15 (o)|klei|
+Klei [13.5-15.0]|klei|
+Klei [14kn/m3]|klei|
+Klei [15-17]_16|klei|
+Klei [15.0-17.0]|klei|
+Klei [>17]_17|klei|
+Klei antropogeen|klei|
+Klei antropogeen [17.0]|klei|
+Klei cat 1|klei|
+Klei cat 2|klei|
+Klei cat 3|klei|
+Klei cat 4|klei|
+Klei humeus|klei|
+Klei licht|klei|
+Klei matig humeus|klei|
+Klei ophoging|klei|
+Klei ophoogmateriaal|klei|
+Klei siltig naast|klei|
+Klei siltig onder|klei|
+Klei sl. tot m. v (opb)|klei|
+Klei slap tot matig vast|klei|
+Klei slap tot vast naast|klei|
+Klei slap tot vast onder|klei|
+Klei slap zandig|klei|
+Klei tot matig vast naast|klei|
+Klei tot matig vast onder|klei|
+Klei zandig|klei|
+Klei zandig naast|klei|
+Klei zandig onder|klei|
+Klei, 13,5|klei|
+Klei, 15,5|klei|
+Klei, antropogeen|klei|
+Klei, hum|klei|
+Klei, licht zandig, licht|klei|
+Klei, matig humeus|klei|
+Klei, matig siltig|klei|
+Klei, siltig|klei|
+Klei, siltig 14,3|klei|
+Klei, sterk hum|klei|
+Klei, stevig|klei|
+Klei, stevig, 17|klei|
+Klei, zandig|klei|
+Klei, zandig, humeus|klei|
+Klei, zeer humeus|klei|
+Klei, zwak siltig|klei|
+Klei, zwak siltig (c,phi0|klei|
+Klei, zwak sltg (c,phi=0)|klei|
+Loam|klei|
+Loose Sand|zand|
+Material_1||
+Material_2||
+Material_3||
+Material_K[10.8-13.5]|klei|
+Material_K[13.5-15.0]|klei|
+Material_K[15.0-17.0]|klei|
+Material_K[17.0-20.0]|klei|
+Material_K[c_en_phi_=0]|klei|
+Material_V[10.0-10.8]|veen|
+Material_V[10.0-10.8]-2|veen|
+Material_V[c_en_phi=0]|veen|
+Material_ZP[19.0]|zand|
+Material_Z[17.0]|zand|
+Material_Z[17.0]_2|zand|
+Material_Z[17.0]_2_(c_en_phi_=0)|zand|
+Material_Z[19.0]|zand|
+Medium Clay|klei|
+Menggranulaat|zand|
+Muck||
+Nieuwe KLEI|klei|
+OA|zand|
+OA (Klei 4)|zand|
+OA hfd. zand, puin, grind|zand|
+OB|klei|
+OB (Antropogene klei)|klei|
+OB - Klei 3|klei|
+OB - Klei 3 boven ld|klei|
+OB Klei - Klei 3|klei|
+OB hfd. klei|klei|
+OB klei 3|klei|
+OC|veen|
+OC (Antropogeen veen)|veen|
+OC hfd. zand, klei|veen|
+Ontlastconstructie||
+Ophoging||
+Ophoogklei|klei|
+Ophoogmateriaal||
+Ophoogzand|zand|
+Organische klei|klei|
+PL [19,0]|zand|
+PL [19]|zand|
+P[17.0-19.0]|zand|
+P_Rk_k&s||
+Peat|veen|
+Pleistoceen|zand|
+Pleistoceen zand|zand|
+Puin [17.0-19.0]|zand|
+Puinfundering|zand|
+Sand|zand|
+Soft Clay|klei|
+Steenkorrel|zand|
+Stiff Clay|klei|
+Stortsteen|zand|
+Superelevation||
+Tiel <14,6 (n)|klei|
+Tiel <14,6 (o)|klei|
+Undetermined||
+V [10 - 10,8]_10|veen|
+V [10 -10,8]|veen|
+V [10,0 - 10,8]|veen|
+V [10,0 - 10,8] (2)|veen|
+V [10,0 - 10,8] _10,7|veen|
+V [10,0 - 10,8]-1|veen|
+V [10,0 - 10,8]-1 (2)|veen|
+V [10-10,8]_10|veen|
+V [10-10,8]_10 POP 10|veen|
+V [10-10,8]_10,5|veen|
+VA[10.0-10.8]_11.58|veen|
+VEEN|veen|
+VEEN 11|veen|
+VEEN 12|veen|
+VEEN diep|veen|
+V[10,0 -10,8] _10,8|veen|
+V[10.0-10.8]|veen|
+V[10.0-10.8] _10.46|veen|
+V[10.0-10.8] _10.5|veen|
+V[10.0-10.8] _10.9|veen|
+V[10.0-10.8] _11.2|veen|
+V[10.0-10.8]_10.02|veen|
+V[10.0-10.8]_10.05|veen|
+V[10.0-10.8]_10.27|veen|
+Veen|veen|
+Veen (2%)|veen|
+Veen (POP)|veen|
+Veen (c,phi0|veen|
+Veen (c,phi=0)|veen|
+Veen 10,2kN/m3|veen|
+Veen 10,5|veen|
+Veen 10,8|veen|
+Veen 11,6kN/m3|veen|
+Veen 2|veen|
+Veen 2.|veen|
+Veen 200-300 (2%)|veen|
+Veen 300 - 500|veen|
+Veen 300-450 (2%)|veen|
+Veen 300-500|veen|
+Veen 450-600 (2%)|veen|
+Veen 600-1000 (2%)|veen|
+Veen <300|veen|
+Veen [10.46]|veen|
+Veen [10.5]|veen|
+Veen [10.8]|veen|
+Veen slap naast|veen|
+Veen slap onder|veen|
+Veen vast naast|veen|
+Veen vast onder|veen|
+Veen, mineraal arm|veen|
+Veen, mineraalarm|veen|
+Wegfundering|zand|
+Z [17,0]|zand|
+Z [17,0] (1)|zand|
+Z [18,0]|zand|
+Z [19,0]|zand|
+Z [>17]_17|zand|
+Z [>17]_18|zand|
+Z [>17]_19|zand|
+ZA|zand|
+ZAND|zand|
+ZA[17.0-19.0]|zand|
+ZP|zand|
+ZP [19,0]|zand|
+ZP[17.0-19.0]|zand|
+ZP[17.0-20.0]|zand|
+ZP[19.0]|zand|
+Z[17.0]|zand|
+Z[19.0]|zand|
+Z[>17,0] _18,0|zand|
+Zand|zand|
+Zand (1)|zand|
+Zand (Pleistoceen)|zand|
+Zand (pleistoceen)|zand|
+Zand 17|zand|
+Zand A2|zand|
+Zand Pleistoceen [19-21]|zand|
+Zand [19.0-21.0]|zand|
+Zand antropogeen|zand|
+Zand antropogeen [17-19]|zand|
+Zand fijn|zand|
+Zand los gepakt naast|zand|
+Zand los gepakt onder|zand|
+Zand matig tot fijn naast|zand|
+Zand matig tot fijn onder|zand|
+Zand pleistoceen|zand|
+Zand, Pleistoceen|zand|
+Zand, los|zand|
+Zand, los [17.0-19.0]|zand|
+Zand, matig fijn|zand|
+Zand, pleistoceen|zand|
+Zand, vast|zand|
+Zware Bodemverbetering||
+antr klei|klei|
+antr klei [16,19kn/m3]|klei|
+antr veen|veen|
+antr zand|zand|
+antropogeen klei|klei|
+antropogeen klei 3|klei|
+antropogeen zand|zand|
+bagger||
+basisveen|veen|
+hollandveen|veen|
+klei 11.7-13.5|klei|
+klei 12|klei|
+klei 12,6|klei|
+klei 12.5|klei|
+klei 13|klei|
+klei 13,5|klei|
+klei 13,6|klei|
+klei 13.5-15.0|klei|
+klei 14,5|klei|
+klei 15|klei|
+klei 15-17|klei|
+klei 15.0-17.0|klei|
+klei 16|klei|
+klei 16,3|klei|
+klei 16,5|klei|
+klei 17|klei|
+klei 2|klei|
+klei 3|klei|
+klei 3 A|klei|
+klei achterschoeiing|klei|
+klei matig siltig|klei|
+klei, zwak siltig|klei|
+ontlast zand|zand|
+ophoogklei|klei|
+ophoogmateriaal|klei|
+ophoogzand|zand|
+pleistoceen|zand|
+puinfundering|zand|
+veen|veen|
+veen 10,1|veen|
+veen 10,2|veen|
+veen 10,5|veen|
+veen 10,8|veen|
+veen miniraalarm bruin|veen|
+wadzand|zand|
+wegfundatie|zand|
+zand|zand|
+zand 17|zand|
+zand matig fijn|zand|
